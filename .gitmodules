@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "picante"]
+	path = picante
+	url = https://github.com/skembel/picante
+	shallow = true
+	registered = true
